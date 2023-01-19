@@ -8,6 +8,11 @@ Easily manage multiple FLOSS repositories.
 
 https://github.com/easbarba/qas_api
 
+## Development
+
+To get started you will need flutter installed, once that's done just run 
+`make deps` and you are good to go.
+
 ## History
 
 `qas` initially was a module of a bigger package called `cejo` extracted as
